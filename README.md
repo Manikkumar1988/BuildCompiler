@@ -13,7 +13,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Make habit of coding daily & learn everyday
 - Revisit Core CS for deeper knowledge
 - Make some real world projects for my portfolio
-- Complete Compilers (https://www.freecodecamp.com/mimukit "FCC Profile") certification
+- Grab Course Compilation certification Compiler
 
 
 ## Log
