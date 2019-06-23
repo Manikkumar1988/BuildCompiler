@@ -35,6 +35,27 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ------------
 
+### Day 2: Jun 21, 2019, Friday
+
+**Today's Progress**: 
+1. Goals of Lexical Analyser are
+- Identify lexeme
+- Associate token class to it
+
+**Link to work:** 
+
+**New thing(s) learned:** 
+- Lexeme -> Compiler lingo, just a substring of program
+- regular languages: are used to specify the lexical structure of programming languages. 
+- lexical structure: of a programming language is a set of token classes. 
+- Each one of the token classes: consists of some set of strings. 
+- To specify which set of strings belongs to each token class the usual tool is regular languages.
+
+**Thoughts:**  
+Identifying lexeme itself problematic -> solution look ahead (however minimize it)
+
+------------
+
 ### Day XX: MMM DD, yyyy, EEE
 
 **Today's Progress**: 
