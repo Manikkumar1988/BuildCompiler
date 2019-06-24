@@ -18,7 +18,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ## Log
 
-### Day 1: Jun 20, 2019, Thursday
+### Day 0: Jun 21, 2019, Friday
 
 **Today's Progress**: 
 - What is Compiler? Intrepreter? 
@@ -35,7 +35,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ------------
 
-### Day 2: Jun 21, 2019, Friday
+### Day 1: Jun 22, 2019, Saturday
 
 **Today's Progress**: 
 1. Goals of Lexical Analyser are
@@ -53,6 +53,25 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  
 Identifying lexeme itself problematic -> solution look ahead (however minimize it)
+
+------------
+
+### Day 03: Jun 24, 2019, Monday
+
+**Today's Progress**
+Able to articulate what is regex, FA, NFA, DFA.
+Able to answer:
+- "Why Lexical Analyser"?
+- "Why Lexical Analyser is first phase of compiler?"
+
+**Link to work:** 
+None, just going through videos of 'Alex Aiken'
+
+**New thing(s) learned:** 
+Vague picture of Jflex's role in buidling the lexical analyser
+keywords: Formal language, regular language, regular expression, FA, NFA, DFA, Lexical Specification
+
+**Thoughts:**  Feeling little scared of new tools like Jflex, virtual machine, commandline commands, 
 
 ------------
 
