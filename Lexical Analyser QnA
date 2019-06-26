@@ -4,7 +4,11 @@ Ex: Sentence the is
 Brain will recognize those are english words
 Above process is lexical Analyser, Just to map/classify what it(machine) sees to what types it already knows
 
-Whats the motivation behind the Lexical Analyser?
+- Whats the motivation behind the Lexical Analyser?
+Without lexical analyser how the world would be!
+A person from opposite will say a "hi" to you
+And you won't able to react since in your dictionary there is no definition to "hi"
+
 Why Lexical Analysis?
 How come Lexical Analysis is first phase of Compilation
 Natural Languages Vs Formal Languages Vs Regular Languages
