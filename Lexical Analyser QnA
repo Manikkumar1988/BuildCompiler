@@ -9,9 +9,19 @@ Without lexical analyser how the world would be!
 A person from opposite will say a "hi" to you
 And you won't able to react since in your dictionary there is no definition to "hi"
 
-Why Lexical Analysis?
+Why Lexical Analysis or why not other ways?
+- I don't if anyother ways is possible phD degree needed to answer why.
+
 How come Lexical Analysis is first phase of Compilation
+- Step 1 is to recognize, none matters if you can't recognize any
+
+
 Natural Languages Vs Formal Languages Vs Regular Languages
+Natural languae: Englist, Tamil
+Formal language: Any Programming lanugage
+Regular Language: made of regex??
+
+
 What is difference between Lexical Analysis and Lexical Specifications
 How Lexical specification can be defined by Regex
 Why Finite Automata?
