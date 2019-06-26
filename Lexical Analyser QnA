@@ -1,0 +1,9 @@
+What is Lexical Analysis?
+Whats the motivation behind the Lexical Analyser?
+Why Lexical Analysis?
+How come Lexical Analysis is first phase of Compilation
+Natural Languages Vs Formal Languages Vs Regular Languages
+What is difference between Lexical Analysis and Lexical Specifications
+How Lexical specification can be defined by Regex
+Why Finite Automata?
+How to Convert to NFA to DFA, Regex to NFA(or ViceVersa), lexical specification to regex
