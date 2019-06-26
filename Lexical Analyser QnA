@@ -1,4 +1,9 @@
-What is Lexical Analysis?
+- What is Lexical Analysis?
+One Analogy is recognize just the words
+Ex: Sentence the is
+Brain will recognize those are english words
+Above process is lexical Analyser, Just to map/classify what it(machine) sees to what types it already knows
+
 Whats the motivation behind the Lexical Analyser?
 Why Lexical Analysis?
 How come Lexical Analysis is first phase of Compilation
