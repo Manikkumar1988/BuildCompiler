@@ -18,6 +18,36 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ## Log
 
+### Day 04: Jun 25, 2019, Tuesday
+
+**Today's Progress**: 
+Revised whole section of lexical analyser & Finite Automata
+I would like take stab, and answer my own questions
+ - What is Lexical Analysis?
+ - Whats the motivation behind the Lexical Analyser?
+ - Why Lexical Analysis?
+ - How come Lexical Analysis is first phase of Compilation
+ - Natural Languages Vs Formal Languages Vs Regular Languages
+ - What is difference between Lexical Analysis and Lexical Specifications
+ - How Lexical specification can be defined by Regex
+ - Why Finite Automata?
+ - How to Convert to NFA to DFA, Regex to NFA(or ViceVersa), lexical specification to regex
+
+**Link to work:** 
+TBU
+
+**New thing(s) learned:** 
+- Maxima Munch
+- 
+
+**Thoughts:**  
+Isolated, not sure whether I would be able to get certificate within #100DaysOfCode.
+Reason is whatever thought in the video lectures
+- Need to stregthen the regex like find more than one way of specifing the regex
+- Practise on Conversion
+
+------------
+
 ### Day 0: Jun 21, 2019, Friday
 
 **Today's Progress**: 
