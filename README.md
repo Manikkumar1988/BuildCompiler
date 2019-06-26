@@ -18,6 +18,26 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ## Log
 
+### Day 05: Jun 26, 2019, Wednesday
+
+**Today's Progress**: 
+Just answering my own questions
+
+**Link to work:** 
+
+**New thing(s) learned:** 
+None, just revising the stuff
+
+**Thoughts:**  
+When scared, take a day break
+
+**What Could have went Well**
+See the question before starting a course
+Reread the problem so many times
+Tske notes while lecture and also after lecture (applies to book reading as well)
+
+--------
+
 ### Day 04: Jun 25, 2019, Tuesday
 
 **Today's Progress**: 
